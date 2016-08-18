@@ -1,0 +1,32 @@
+{
+  "name": "reactdemo",
+  "version": "1.0.0",
+  "description": "This is a demo of react!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyangxaut/ReactDemo.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "anyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyangxaut/ReactDemo/issues"
+  },
+  "homepage": "https://github.com/anyangxaut/ReactDemo#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "image-webpack-loader": "^2.0.0",
+    "style-loader": "^0.13.1",
+	"jsx-loader": "^0.13.2",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "react": "^15.3.0"
+  }
+}
